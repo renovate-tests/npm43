@@ -2,5 +2,6 @@
   "lockFileMaintenance": {
     "enabled": true,
     "schedule": null
-  }
+  },
+  "ignoreDeps": ["typescript"]
 }
